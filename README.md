@@ -1,2 +1,2 @@
-# ArtistManagerProject
-Team project Exercise JDBC
+# ArtistManagmentSystem
+Data Base project Java4Women
